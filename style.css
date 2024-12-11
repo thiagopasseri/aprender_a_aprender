@@ -10,9 +10,10 @@ body {
 }
 
 .texto {
-    width: 60%;
+    width: 80%;
     max-width: 650px;
     /* min-width: 400px */
+
 }
 
 .video-container {
@@ -57,6 +58,7 @@ blockquote:hover::before {
 blockquote cite {
     display: block;
     margin-top: 10px;
+
     font-style: italic;
     text-align: right;
     color: #666;
